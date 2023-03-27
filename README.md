@@ -1,2 +1,14 @@
-# credit-risk-classification
-techniques to train and evaluate a model based on loan risk
+## Credit-risk-classification
+
+for this task I trained and assessed a loan risk-based model for this task using a variety of methodologies. I developed a model to determine the creditworthiness of borrowers using past lending data from a peer-to-peer lending services company.
+
+
+## Split the Data into Training and Testing Sets
+
+From the "loan status" column, I made a y label, and from the remaining columns in the DataFrame, I made a features X label.
+
+## Create a Logistic Regression Model with the Original Data
+
+I fitted the logistic regression model using the training data and my understanding of logistic regression. Using the testing feature data and the fitted model, I then recorded the predictions for the testing data labels.
+
+I then calculated the model's accuracy score, produced a confusion matrix, and printed the classification report as seen below to assess the model's performance.
