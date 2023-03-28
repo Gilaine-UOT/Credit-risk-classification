@@ -25,3 +25,21 @@ The initial model exhibits a balanced accuracy score of nearly 95%, but it is mo
 
 
 ## Machine Learning Model 2
+
+Balanced Accuracy Score
+
+![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%204.PNG)
+
+Confusion Matrix
+
+![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%205.PNG)
+
+Classification Report
+
+![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%206.PNG)
+
+The second model has a balanced accuracy score of around 99%, which is also reflected in the recall score of 0.99 for both low-risk and high-risk loans. The second model performs better than the first model in predicting high-risk loans. However, the confusion matrix shows that there were 4 cases of false positives and 116 cases of false negatives.
+
+
+
+
