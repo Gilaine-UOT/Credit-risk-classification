@@ -34,3 +34,12 @@ following with calculation of the model's accuracy score, produced a confusion m
 
 The Credit Risk Analysis Report 
 
+Can be found on the link below
+* [https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Credit_Risk/Risk_Analysis_Report.md]
+
+
+## References 
+The purpose of the dataset is solely for educational reasons.
+
+
+
