@@ -20,3 +20,8 @@ Confusion Matrix
 Classification Report
 
 ![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%203.PNG)
+
+The initial model exhibits a balanced accuracy score of nearly 95%, but it is more proficient in forecasting low-risk loans rather than high-risk loans. The model's recall value for healthy loans is 0.99, indicating that it accurately predicts 99% of healthy loans. On the other hand, the recall value for unhealthy loans is 0.91, indicating that it accurately predicts 91% of unhealthy loans. When analyzing the confusion matrix, it is evident that there were 56 false positives and 102 false negatives.
+
+
+## Machine Learning Model 2
