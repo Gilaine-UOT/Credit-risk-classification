@@ -25,7 +25,7 @@ In order to review the initial model for this section, I used RandomOverSampler 
 
 following with calculation of the model's accuracy score, produced a confusion matrix, and printed the classification report as seen below to assess the model's performance.
 
-![] ( https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%204.PNG)
+![]( https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%204.PNG)
 
 ![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%205.PNG)
 
@@ -35,6 +35,7 @@ following with calculation of the model's accuracy score, produced a confusion m
 The Credit Risk Analysis Report 
 
 Can be found on the link below
+
 * [https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Credit_Risk/Risk_Analysis_Report.md]
 
 
