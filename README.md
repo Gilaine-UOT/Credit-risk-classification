@@ -24,3 +24,13 @@ I then calculated the model's accuracy score, produced a confusion matrix, and p
 In order to review the initial model for this section, I used RandomOverSampler to resample the training data. I then fitted the model and made predictions using the LogisticRegression and resampled data.
 
 following with calculation of the model's accuracy score, produced a confusion matrix, and printed the classification report as seen below to assess the model's performance.
+
+![] ( https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%204.PNG)
+
+![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%205.PNG)
+
+![](https://github.com/Gilaine-UOT/Credit-risk-classification/blob/main/Images/Capture%206.PNG)
+
+
+The Credit Risk Analysis Report 
+
