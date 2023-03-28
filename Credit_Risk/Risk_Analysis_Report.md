@@ -40,6 +40,8 @@ Classification Report
 
 The second model has a balanced accuracy score of around 99%, which is also reflected in the recall score of 0.99 for both low-risk and high-risk loans. The second model performs better than the first model in predicting high-risk loans. However, the confusion matrix shows that there were 4 cases of false positives and 116 cases of false negatives.
 
+## Summary 
 
+The second model is the most suitable for predicting high-risk loans based on its balanced accuracy score and recall, while both the first and second models perform similarly for predicting low-risk loans. Even though the second model has a slightly higher number of false negatives according to the confusion matrix, it has significantly fewer false positives. Hence, I would suggest utilizing Model 2, which is the logistic regression model developed using oversampled data.
 
 
